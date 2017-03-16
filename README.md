@@ -101,6 +101,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
   1. [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
   1. [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
+  1. [Contract or full-time? Which to hire and how to evaluate the costs.](https://codemyviews.com/blog/hire-developers-contract-or-full-time)
+  1. [How (And Why) to Eliminate Recurring Meetings](https://codemyviews.com/blog/eliminate-recurring-meetings)
+  
 
 ## Videos
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
@@ -192,6 +195,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   4. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
   5. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
   6. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
+  7. [How to Hire for Web Development](https://codemyviews.com/blog/how-to-hire-for-web-development) - Interview guide employers use
 
 ## Events
   1. [Coworking Camp](http://www.coworking-camp.com) - Worldwide temporary coworking Spaces
@@ -231,6 +235,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [CircleCI](https://circleci.com/jobs#engineer) - Provides continuous integration tools and services.
   1. [Clevertech](https://clevertech.biz/careers) - We build incredible, game changing technology.
   1. [Close.io](http://jobs.close.io) - Inside sales CRM for startups and SMBs.
+  1. [CodeMyViews.com](https://codemyviews.com) - Software Products & Services for Businesses.
   1. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
   1. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
   1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
